@@ -1,0 +1,22 @@
+{
+  "name": "com.zhakami.vrc-open-world-movement",
+  "displayName": "Zhakami.OpenWorldMovementLogic",
+  "version": "1.3.0",
+  "unity": "2022.3",
+  "description": "Open World Movement Logic is an extension for Sacc Flight and Vehicles that allows you to travel further than the usual limitations of VRChat.",
+  "author": {
+    "name": "zhakamizhako",
+    "url": "https://github.com/zhakamizhako"
+  },
+  "keywords": [
+    "vrchat",
+    "movement",
+    "world",
+    "climbing",
+    "logic",
+    "udon",
+    "open-world",
+    "owml"
+  ],
+  "license": "MIT"
+}

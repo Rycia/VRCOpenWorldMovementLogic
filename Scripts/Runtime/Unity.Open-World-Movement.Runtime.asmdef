@@ -1,0 +1,19 @@
+{
+  "name": "Unity.Open-World-Movement.Runtime",
+  "references": [
+    "VRC.Udon",
+    "UdonSharp.Runtime",
+    "SaccFlightAndVehicles.Runtime",
+    "SaccFlightAndVehicles",
+    "VRC.Udon.Serialization.OdinSerializer"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

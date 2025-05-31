@@ -1,0 +1,17 @@
+{
+  "files.exclude": {
+    "**/*.meta": true
+  },
+    "files.watcherExclude": {
+    "**/*.meta": true
+  },
+  "search.exclude": {
+    "**/*.meta": true
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit"
+  },
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.requireConfig": true,
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Unity.Open-World-Movement.Editor",
+  "references": [
+    "VRC.Udon.Editor",
+    "UdonSharp.Editor",
+    "SaccFlightAndVehicles.Editor",
+    "Unity.Open-World-Movement.Runtime"
+  ],
+  "includePlatforms": [ "Editor" ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
